@@ -8,3 +8,7 @@ Offensive security / red-team tools I've come across on GitHub — not my own pr
 - [blackhatethicalhacking/CF-GeoBypasser](https://github.com/blackhatethicalhacking/CF-GeoBypasser) — Modular toolkit for discovering and bypassing Cloudflare geo-restrictions using country-specific proxies.
 - [blackhatethicalhacking/AdminPBuster](https://github.com/blackhatethicalhacking/AdminPBuster) — Multithreaded brute-forcer for hidden admin panels, with a wordlist that updates itself from GitHub.
 - [blackhatethicalhacking/D0rkerR3con-Framework](https://github.com/blackhatethicalhacking/D0rkerR3con-Framework) — Offline Google Dorking toolkit with an interactive terminal UI and 68+ categorized dorks.
+
+## My Own Compilations
+
+- [russian-offensive-security-questions.md](./russian-offensive-security-questions.md) — A compilation of offensive-security interview questions (in Russian), covering networks, operating systems, web applications, cloud, and cryptography. Open and growing — forks/suggestions welcome.
